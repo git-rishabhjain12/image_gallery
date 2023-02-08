@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.rows {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    width: 80%;
+    margin: 1rem auto;
+}
+
+.rows .image img{
+    width: 400px;
+    height: 300px;
+}
+
+.rows .image .overlay{
+
+}
